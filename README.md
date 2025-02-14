@@ -1,4 +1,5 @@
 # latihan-git-squash
-Repository latihan untuk git squash Coding Camp Dicoding 2025
-Aku punya ayam kecil
-Ku beri nama jeri
+Repository latihan untuk git squash Coding Camp Dicoding 2025<br>
+Aku punya ayam kecil<br>
+Ku beri nama jeri<br>
+Dia senang menari-nari<br>
