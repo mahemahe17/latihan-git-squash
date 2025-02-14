@@ -6,3 +6,4 @@ Dia senang menari-nari<br>
 
 Jeri petok-petok<br>
 Ini adalah teks baru<br>
+Ini juga adalah teks baru<br>
